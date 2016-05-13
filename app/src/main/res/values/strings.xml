@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Löffelmaß</string>
+
+    <string name="search">Suchen</string>
+
+    <string name="clear">X</string>
+    <string name="newEntry">Neu</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zurück</string>
+
+    <string name="ingredientName">Zutat</string>
+    <string name="teaspoon">Teelöffel, gestrichen</string>
+    <string name="spoon">Esslöffel, gestrichen</string>
+
+</resources>
